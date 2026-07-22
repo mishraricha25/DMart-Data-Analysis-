@@ -6,7 +6,7 @@ This project marks my first step into the tech world, where I analyze DMart’s 
 
 # Dataset Used-
 This analysis uses DMart’s sample dataset covering the first week of January 2025.  
-You can download it here: [DMart_sample_data.20 (1).xlsx](DMart_sample_data.20%20(1).xlsx)
+You can download it here: <a href="https://github.com/mishraricha25/DMart-Data-Analysis-/blob/main/DMart_sample_data.20%20(1).xlsx">Dataset</a>
 
 # KPI's-
 
@@ -42,9 +42,21 @@ You can download it here: [DMart_sample_data.20 (1).xlsx](DMart_sample_data.20%2
      - Peak sales hours
      - Premium vs mass category segmentation
      - Average Transaction Per Day
+     - Download Dashboard Here: <a href="https://github.com/mishraricha25/DMart-Data-Analysis-/blob/main/DMart_Dashboard.pdf">Dmart Dashboard</a>
 
 5. **Insights Generation**
    - Highlighted top customers driving revenue.
    - Identified underperforming categories needing promotions.
    - Analyzed consumer behavior patterns during the first week of January 2025.
+
+6. **Conclusion**
+- **Clothing & Peronal Care** are the top revenue‑generating categories, while **Electronics** underperform.  
+- **Premium and Member customers** spend more per visit and have larger basket sizes compared to Regular customers.  
+- **Peak shopping activity** is concentrated at specific hours/days, though midnight peak requires validation.  
+- **Daily sales fluctuate**, showing minor weekly spikes that suggest opportunities for targeted campaigns.  
+- **High‑priced categories** sell fewer units, reflecting premium positioning, while mass categories drive volume.  
+- **Average spend per visit** is highest among Premium customers, reinforcing the value of loyalty programs.  
+- **Underperforming categories** need promotions, bundling, or marketing support to boost sales.  
+- **Top customers** contribute significantly to revenue, making personalized offers and retention strategies essential.
+
   
